@@ -1,0 +1,144 @@
+# 📊 Customer Segmentation Using RFM Analysis (Power BI)
+
+## 📌 Project Overview
+
+This project presents an interactive **Power BI dashboard** designed to analyze customer behavior using **RFM Analysis (Recency, Frequency, Monetary)**.
+
+The goal is to help businesses better understand their customers, identify high-value segments, and make data-driven marketing and sales decisions.
+
+---
+
+## 🎯 Objectives
+
+* Analyze customer purchasing behavior
+* Segment customers based on RFM metrics
+* Identify high-value and at-risk customers
+* Provide actionable insights for business growth
+
+---
+
+## 📂 Dataset Features
+
+The dataset includes:
+
+* Customer demographics (Age, Education, Marital Status)
+* Transaction history (Purchases, Spending)
+* Product categories
+* Purchase channels (Store, Web, Catalog)
+
+---
+
+## 📊 Dashboard Features
+
+### 🔹 Key Performance Indicators (KPIs)
+
+* Total Spending
+* Average Income
+* Average Recency
+* Total Customers
+* Monetary Value
+
+
+### 🔹 Customer Demographics
+
+* Distribution by **Education Level**
+* Distribution by **Marital Status**
+* Age Group segmentation (31–50, 51–70, 71–90)
+
+
+ 🔹 Purchase Behavior Analysis
+
+* Store Purchases
+* Web Purchases
+* Catalog Purchases
+* Deals Purchases
+
+
+
+ 🔹 Product Category Analysis
+
+* Fish Products
+* Gold Products
+* Meal Products
+* Sweet Products
+
+
+ 🔹 RFM Segmentation
+
+Customers are segmented based on:
+
+* **Recency** – How recently a customer purchased
+* **Frequency** – How often they purchase
+* **Monetary** – How much they spend
+
+Segments include:
+
+* Champions
+* Loyal Customers
+* At Risk Customers
+* Others
+
+
+ 🔍 Key Insights
+
+ 💡 High-Value Customers
+
+* Customers aged **51–70** contribute the highest revenue
+* This group represents the core target audience
+
+
+ 💡 Revenue Trends
+
+* Revenue fluctuates significantly across years
+* Indicates possible seasonality or campaign impact
+
+
+ 💡 Customer Value Distribution
+
+* A smaller group of customers generates the majority of revenue
+* Highlights the importance of retention strategies
+
+
+ 💡 Purchase Channels
+
+* Most purchases occur through **Store** and **Catalog**
+* **Web channel is underutilized** (growth opportunity)
+
+
+ 💡 Customer Profile
+
+* Majority of customers are:
+
+  * **Graduates**
+  * **Married**
+
+
+ 🚀 Business Recommendations
+
+* Focus marketing efforts on **high-value age groups (51–70)**
+* Improve **online (web) sales channels**
+* Develop retention strategies for **loyal customers**
+* Re-engage **at-risk customers** with targeted campaigns
+
+
+ 🛠️ Tools & Technologies
+
+* Power BI
+* DAX (Data Analysis Expressions)
+* Data Modeling
+* Data Visualization
+
+
+ 📈 Conclusion
+
+This project demonstrates how RFM segmentation can help businesses:
+
+* Understand customer behavior
+* Optimize marketing strategies
+* Increase customer retention
+* Drive revenue growth
+
+
+## 📎 Author
+
+**Omololu Olusoga Atiwaye**
